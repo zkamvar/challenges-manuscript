@@ -1,0 +1,39 @@
+digraph G {
+	node[shape="box"]
+		linelist; contacts
+	node[shape="box", style = "dashed"]
+		WGS;
+	node[shape="diamond", style="solid"]
+	incidence; growth_rate; phylogeny; clustering; case_delays; paired_delays; interactive_graphs;
+	node[shape="oval"]
+		R0; serial_interval; generation_time; transmission_trees;
+	node[shape="circle"]
+		projections;
+	node[shape="box", style = "invis"]
+		background;
+
+	linelist -> incidence;
+	incidence -> growth_rate;
+	incidence -> R0;
+	incidence -> projections;
+	growth_rate -> R0;
+	R0 -> projections;
+	
+	linelist -> case_delays;
+	linelist -> paired_delays;
+	
+	contacts -> interactive_graphs;
+	contacts -> paired_delays;
+	paired_delays -> generation_time;
+	paired_delays -> serial_interval;
+	serial_interval -> R0;
+	
+	WGS -> phylogeny;
+	WGS -> clustering;
+	WGS -> transmission_trees [ style="dotted" ];
+	linelist -> transmission_trees [ style="dotted" ];
+	contacts -> transmission_trees [ style="dotted" ];
+	generation_time -> transmission_trees [ style="dotted" ];
+	
+	{rank = "same"; contacts, linelist, WGS, background}
+}
