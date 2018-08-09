@@ -25,13 +25,16 @@ digraph G {
 		projections;
 		
 	node[shape = "none", width = 0, height = 0, label = ""]
-		GrR0;
-		InRO;
-		R0P;
-		TT;
+		GrR0; // Growth Rate to R0
+		InRO; // Incidence to R0
+		tPd;  // to paired delays
+		tIg;  // to interactive graphs
+		R0P;  // R0 to Projections
+		TT1;  // to transmission trees
+		TT2;  // to transmission trees
 		
-	node[shape="box", style = "invis"]
-		background;
+//	node[shape="box", style = "invis"]
+//		background;
 
 	linelist -> incidence;
 	incidence -> growth_rate;
@@ -49,22 +52,32 @@ digraph G {
 	R0P       -> projections;
 	
 	linelist -> case_delays;
-	linelist -> paired_delays;
-	
-	contacts -> interactive_graphs;
+
+//	contacts -> tPd [arrowhead = "none"];
+//	linelist -> tPd [arrowhead = "none"];
+//	tPd      -> paired_delays;
 	contacts -> paired_delays;
+	
 	paired_delays -> generation_time;
 	paired_delays -> serial_interval;
+
+	contacts -> tIg [arrowhead = "none"];
+	linelist -> tIg [arrowhead = "none"];
+	tIg      -> interactive_graphs;
+
 	
 	WGS -> phylogeny;
 	WGS -> clustering;
 
-	WGS             -> TT [ style="dotted", arrowhead="none" ];
-	linelist        -> TT [ style="dotted", arrowhead="none" ];
-	contacts        -> TT [ style="dotted", arrowhead="none" ];
-	generation_time -> TT [ style="dotted", arrowhead="none" ];
-	TT              -> transmission_trees [ style = "dotted" ];
+	WGS             -> TT1[ style="dashed", arrowhead="none" ];
+	linelist        -> TT1[ style="dashed", arrowhead="none" ];
+	contacts        -> TT1[ style="dashed", arrowhead="none" ];
+	generation_time -> TT2[ style="dashed", arrowhead="none" ];
+	serial_interval -> TT2[ style="dashed", arrowhead="none" ];
+	TT1             -> TT2[ style="dashed", arrowhead="none" ];
+	TT2             -> transmission_trees [ style = "dashed" ];
 	
-	{rank = "same"; contacts, linelist, WGS, background}
+	{rank = "same"; contacts, linelist, WGS}//, background}
+	{rank = "same"; incidence, case_delays, paired_delays, interactive_graphs}//, background}
 }
 
