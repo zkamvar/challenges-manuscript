@@ -1,10 +1,10 @@
 digraph G {
 	node[shape="box"]
-		linelist;
-		contacts;
+		linelist[label = "Linelist\n(individual level)"];
+		contacts[label = "Contacts\n(exposure level)"];
 		
 	node[shape="box", style = "dashed"]
-		WGS;
+		WGS[label = "WGS\n(individual level)"];
 		
 	node[shape="diamond", style="solid"]
 		incidence;
