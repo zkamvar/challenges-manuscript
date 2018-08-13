@@ -8,18 +8,18 @@ digraph G {
 		
 	node[shape="diamond", style="solid"]
 		incidence;
-		growth_rate;
+		growth_rate [label = "growth rate"];
 		phylogeny;
 		clustering;
-		case_delays;
-		paired_delays;
-		interactive_graphs;
+		case_delays [label = "case delays"];
+		paired_delays [label = "paired delays"];
+		interactive_graphs [label = "interactive graphs"];
 		
 	node[shape="oval"]
-		R0;
-		serial_interval;
-		generation_time;
-		transmission_trees;
+		R0 [label = "R₀"]; // Reproduction number
+		serial_interval [label = "serial interval"];
+		generation_time [label = "generation time"];
+		transmission_trees [label = "transmission trees"];
 
 	node[shape="circle"]
 		projections;
