@@ -1570,7 +1570,7 @@
      inkscape:pageshadow="2"
      inkscape:zoom="0.99999999"
      inkscape:cx="493.3415"
-     inkscape:cy="462.43902"
+     inkscape:cy="422.43902"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -2091,7 +2091,7 @@
        inkscape:connector-curvature="0" />
     <g
        id="g11634"
-       transform="translate(-19.211532,20.844367)"
+       transform="translate(-43.553199,25.342284)"
        inkscape:connector-avoid="true">
       <rect
          style="opacity:1;vector-effect:none;fill:#fbfbfb;fill-opacity:1;stroke:#e8c271;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
@@ -2983,7 +2983,7 @@
     </g>
     <g
        id="g2873"
-       transform="translate(6.5122931,20.825638)">
+       transform="translate(13.39146,28.498555)">
       <ellipse
          cx="82.776451"
          cy="138.28152"
@@ -3149,7 +3149,7 @@
     </g>
     <path
        style="display:inline;fill:none;fill-rule:evenodd;stroke:#e8c271;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker2866)"
-       d="m 32.716842,109.14093 c 4.248983,9.35592 14.300278,16.89969 24.351573,16.89969 h 19.166212"
+       d="m 44.356449,101.08662 c 9.629319,2.40157 18.30689,11.10795 20.658318,20.74475"
        id="path4737"
        inkscape:connector-type="orthogonal"
        inkscape:connector-curvature="100"
@@ -3157,7 +3157,7 @@
        inkscape:connection-end="#g11634" />
     <path
        style="opacity:1;vector-effect:none;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#55689c;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#Arrow1Mend)"
-       d="m 44.356449,153.12359 h 18.473962 c 5.198126,0 10.396252,0.46191 14.791822,1.20423"
+       d="m 44.356449,153.12359 h 25.353129 c 7.676985,0 15.353971,2.29945 20.445679,5.56398"
        id="path4802"
        inkscape:connector-type="orthogonal"
        inkscape:connector-curvature="100"
@@ -3172,7 +3172,7 @@
        y="144.58614" />
     <path
        style="display:inline;fill:none;fill-rule:evenodd;stroke:#e8c271;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 103.72736,126.04062 h 4.04279 c 9.92188,0 19.84375,9.43568 19.84375,18.87135 v 0"
+       d="m 79.385693,130.53854 h 28.913627 c 9.77191,0 19.54383,6.97112 19.83698,14.0476"
        id="path1367"
        inkscape:connector-type="orthogonal"
        inkscape:connector-curvature="75"
@@ -3180,7 +3180,7 @@
        inkscape:connection-end="#rect1365" />
     <path
        style="fill:none;fill-rule:evenodd;stroke:#e8c271;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 103.06064,159.10716 h 4.70951 c 9.92188,0 19.84375,-7.09759 19.84375,-14.19519 v 0"
+       d="m 109.93905,166.69123 c 9.34624,-1.00541 18.20402,-10.38016 18.20402,-19.7549 v -1.69852"
        id="path1369"
        inkscape:connector-type="orthogonal"
        inkscape:connector-curvature="75"
@@ -3203,7 +3203,7 @@
        style="opacity:1;vector-effect:none;fill:#55689c;fill-opacity:1;stroke:#55689c;stroke-width:0.34832445;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
     <path
        style="opacity:1;vector-effect:none;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#55689c;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       d="m 101.99822,155.64318 c 7.83382,-4.33654 13.71059,-12.14833 13.71059,-19.96012 v 0"
+       d="m 107.33058,161.51179 c 5.18149,-5.06803 8.9074,-13.12904 8.9074,-21.19004 v -4.31285"
        id="path1451"
        inkscape:connector-type="orthogonal"
        inkscape:connector-curvature="100"
