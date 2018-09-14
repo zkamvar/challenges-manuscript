@@ -12,13 +12,15 @@ digraph G {
 		phylogeny;
 		clustering;
 		case_delays [label = "case delays"];
-		paired_delays [label = "paired delays"];
+//		paired_delays [label = "paired delays"];
 		interactive_graphs [label = "interactive graphs"];
+    maps;
+    compartmental_models [label = "compartmental models"];
 		
 	node[shape="oval"]
 		R0 [label = "R₀"]; // Reproduction number
 		serial_interval [label = "serial interval"];
-		generation_time [label = "generation time"];
+		// generation_time [label = "generation time"];
 		transmission_trees [label = "transmission trees"];
 
 	node[shape="circle"]
@@ -37,6 +39,8 @@ digraph G {
 //		background;
 
 	linelist -> incidence;
+	linelist -> maps;
+	linelist -> compartmental_models;
 	incidence -> growth_rate;
 
 	incidence       -> InR0 [arrowhead = "none"];
@@ -58,7 +62,7 @@ digraph G {
 //	tPd      -> paired_delays;
 	contacts -> paired_delays;
 	
-	paired_delays -> generation_time;
+//	paired_delays -> generation_time;
 	paired_delays -> serial_interval;
 
 	contacts -> tIg [arrowhead = "none"];
@@ -72,7 +76,7 @@ digraph G {
 	WGS             -> TT1[ style="dashed", arrowhead="none" ];
 	linelist        -> TT1[ style="dashed", arrowhead="none" ];
 	contacts        -> TT1[ style="dashed", arrowhead="none" ];
-	generation_time -> TT2[ style="dashed", arrowhead="none" ];
+	// generation_time -> TT2[ style="dashed", arrowhead="none" ];
 	serial_interval -> TT2[ style="dashed", arrowhead="none" ];
 	TT1             -> TT2[ style="dashed", arrowhead="none" ];
 	TT2             -> transmission_trees [ style = "dashed" ];
