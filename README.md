@@ -17,6 +17,9 @@ cp palette.gpl ~/.config/inkscape/palettes/challenges.gpl
 Then you can select the palette in the lower right-hand corner of inkscape. The
 one that says `challenges #Color palette by Paletton.com #72W0S0kdPiS8cz9gnt9957fjh8+Columns: 4`
 
+The font family we are using is [Sawasdee]()https://fontinfo.opensuse.org/families/Sawasdee.html), 
+which happens to be the font for the RECON logo. 
+
 # Components to work on
 
 We have decided on a model where we are creating a directed graph with inputs
