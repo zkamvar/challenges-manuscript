@@ -1,12 +1,12 @@
 digraph G {
-	node[shape="box"]
+	node[shape="circle", width=0.5, height=0.5, fixedsize=true]
 		linelist[label = "Linelist\n(individual level)"];
 		contacts[label = "Contacts\n(exposure level)"];
 		
-	node[shape="box", style = "dashed"]
+//	node[shape="box", style = "dashed"]
 		WGS[label = "WGS\n(individual level)"];
 		
-	node[shape="diamond", style="solid"]
+//	node[shape="diamond", style="solid"]
 		incidence;
 		growth_rate [label = "growth rate"];
 		phylogeny;
@@ -15,17 +15,30 @@ digraph G {
 //		paired_delays [label = "paired delays"];
 		interactive_graphs [label = "interactive graphs"];
     maps;
-    compartmental_models [label = "compartmental models"];
 		
-	node[shape="oval"]
+//	node[shape="oval"]
 		R0 [label = "R₀"]; // Reproduction number
 		serial_interval [label = "serial interval"];
 		// generation_time [label = "generation time"];
 		transmission_trees [label = "transmission trees"];
 
-	node[shape="circle"]
+//	node[shape="circle"]
 		projections;
-		
+
+  // METHODS ---------------------------------------------
+	node[shape = "box"]
+    LM [label = "linear models"];
+    Graphs;
+    compartmental_models [label = "compartmental models"];
+    Rest [label = "R estimationi (Likelihood/Bayesian)"];
+    Branching [label = "Branching Processes"]; // estimation of Reproduction number and projections
+    Phylogenies; 
+    Clustering;
+    TTR [label = "Transmission Tree Reconstruction"];
+    // Linear Models
+    // Interactive Graph Visualization	
+    // Delay Distribution Fitting
+    // Compartmental Models
 	node[shape = "none", width = 0, height = 0, label = ""]
 		GrR0; // Growth Rate to R0
 		InRO; // Incidence to R0
