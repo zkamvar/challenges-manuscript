@@ -4,6 +4,8 @@ library("distcrete")
 library("epitrix")
 library("earlyR")
 library("outbreaks")
+library("ape")
+library("pegas")
 
 library("ggplot2")
 library("svglite")
@@ -13,6 +15,12 @@ yellow1 <- "#e8c271b2"
 yellow2 <- "#968155ff"
 blue1   <- "#8b96b4ff"
 blue2   <- "#1d2027ff"
+PALETTE <- list(color_1 = c("#90C1A1", "#53AA71", "#3F6E4F", "#1E2A22", "#153420"), 
+                color_2 = c("#8B96B4", "#55689C", "#3E4965", "#1D2027", "#161D30"), 
+                color_3 = c("#FFEABE", "#E8C271", "#968155", "#3A3429", "#483A1C"), 
+                color_4 = c("#FFC8BE", "#E88471", "#965F55", "#3A2C29", "#48231C")
+               )
+
 
 # Incidence fit chart ---------------------------------------------------------
 e   <- ebola_sim$linelist$date_of_onset
@@ -52,3 +60,29 @@ p <- plot(i[1:120], color = blue1, border = blue2) %>%
 	theme(legend.position = "none")
 ggsave(p + theme_void(), file = here("charts", "predictions.svg"),
        width = 4, height = 2)
+
+# trees -----------------------------------------------------------------------
+set.seed(9)
+the_tree <- ladderize(rtree(10))
+svglite::svglite(file = here("charts", "tree.svg"), 
+                 width = 4, height = 3)
+plot.phylo(the_tree, show.tip.label = FALSE, edge.width = 3)
+dev.off()
+
+# network ---------------------------------------------------------------------
+data(woodmouse)
+set.seed(9)
+x <- woodmouse[sample(15, size = 110, replace = TRUE), ]
+h <- haplotype(x)
+net <- haploNet(h)
+attr(net, "freq")[c(1, 4, 5)] <- c(6, 25, 15)/1.5
+svglite::svglite(file = here("charts", "network.svg"),
+                 width = 4, height = 4)
+plot(net,
+     bg = PALETTE$color_4[1:3], 
+     col.link = grey(runif(15, max = 0.5)),
+     lwd = 3,
+     labels = FALSE,
+     show.mutation = FALSE,
+     size = attr(net, "freq"))
+dev.off()
