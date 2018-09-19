@@ -86,3 +86,25 @@ plot(net,
      show.mutation = FALSE,
      size = attr(net, "freq"))
 dev.off()
+
+# R0 estimation ---------------------------------------------------------------
+svglite::svglite(file = here("charts", "R0.svg"),
+                 width = 3, height = 3)
+x <- seq(0, 5, length.out = 1000)
+dg <- dgamma(x, shape = 1.5)
+my <- max(dg)
+mx <- x[which.max(dg)]
+plot(x,
+     dg,
+     type = "l",
+     xlim = c(0, 5),
+     ylim = c(0, 0.5),
+     main = "",
+     xlab = "",
+     ylab = "",
+     lwd  = 3,
+     col  = PALETTE$color_2[3])
+polygon(c(x, 5.001), c(dg, 0), col = PALETTE$color_2[1])
+abline(h = my, lty = 2, col = PALETTE$color_4[2], lwd = 3)
+points(mx, my, col = PALETTE$color_4[2], pch = 19)
+dev.off()
