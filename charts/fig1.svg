@@ -16,7 +16,10 @@
    version="1.1"
    id="svg2081"
    inkscape:version="0.92.3 (unknown)"
-   sodipodi:docname="fig1.svg">
+   sodipodi:docname="fig1.svg"
+   inkscape:export-filename="/home/zkamvar/Documents/Projects/challenges-manuscript/fig1.png"
+   inkscape:export-xdpi="300"
+   inkscape:export-ydpi="300">
   <defs
      id="defs2075">
     <marker
@@ -272,11 +275,11 @@
      pagecolor="#ffffff"
      bordercolor="#666666"
      borderopacity="1.0"
-     inkscape:pageopacity="0.0"
+     inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="3.1875992"
-     inkscape:cx="576.50308"
-     inkscape:cy="117.83766"
+     inkscape:zoom="1.1269865"
+     inkscape:cx="570.28889"
+     inkscape:cy="82.550055"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -305,7 +308,7 @@
      transform="translate(0,-213)">
     <path
        style="opacity:0.25;vector-effect:none;fill:#90c1a1;fill-opacity:1;stroke:none;stroke-width:3.44084287;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers stroke fill"
-       d="m -3.9956704,255.20758 c 13.5935557,-0.5673 37.6877604,-1.28536 37.6877604,-1.28536 43.998842,-12.99982 98.99637,-7.52388 139.41811,-10.81471 11.2268,-6.4818 36.60126,-27.69906 34.81818,-6.1952 l -1.94881,23.5026 c -0.91374,11.0198 -40.2562,12.79297 -51.84445,12.68881 -32.71384,-0.33144 -157.5583521,41.36187 -165.214027,24.05491 0,0 -8.276636,-41.31004 7.0832366,-41.95105 z"
+       d="m -3.9956704,255.20758 c 3.44469954,-4.06811 37.6877604,-1.28536 37.6877604,-1.28536 43.998842,-12.99982 98.99637,-7.52388 139.41811,-10.81471 11.2268,-6.4818 45.95676,-35.58681 44.44378,-12.76878 l -1.71404,25.85031 c -0.73159,11.03338 -50.11657,17.01884 -61.70482,16.91468 -32.71384,-0.33144 -157.5583521,41.36187 -165.214027,24.05491 0,0 -2.851114,-30.21882 7.0832366,-41.95105 z"
        id="rect8766"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="sccssccs" />
@@ -481,7 +484,7 @@
          id="textPath10076"><tspan
    id="tspan9689"
    style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Light';fill:#3f6e4f;stroke-width:0.26458332"
-   dx="70.666245">Unknown Unknowns</tspan></textPath></text>
+   dx="70.666245">Unknown unknowns</tspan></textPath></text>
     <text
        id="text9695"
        style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:5.29166651px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#3f6e4f;fill-opacity:1;stroke:none;stroke-width:0.26458332"
@@ -541,5 +544,16 @@
          x="172.13971"
          sodipodi:role="line"
          id="tspan12017">policy formation</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:4.23333311px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#3e4965;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="172.13971"
+       y="281.0755"
+       id="text12338"><tspan
+         id="tspan12336"
+         sodipodi:role="line"
+         x="172.13971"
+         y="281.0755"
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:4.23333311px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Light';fill:#3e4965;stroke-width:0.26458332">academic modeling</tspan></text>
   </g>
 </svg>
