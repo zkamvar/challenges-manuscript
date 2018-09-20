@@ -278,8 +278,8 @@
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
      inkscape:zoom="1.1269865"
-     inkscape:cx="570.28889"
-     inkscape:cy="82.550055"
+     inkscape:cx="339.2104"
+     inkscape:cy="107.29743"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -288,7 +288,8 @@
      inkscape:window-x="1651"
      inkscape:window-y="27"
      inkscape:window-maximized="1"
-     showguides="false" />
+     showguides="true"
+     inkscape:snap-global="true" />
   <metadata
      id="metadata2078">
     <rdf:RDF>
@@ -307,11 +308,17 @@
      id="layer1"
      transform="translate(0,-213)">
     <path
+       sodipodi:nodetypes="sccccs"
+       inkscape:connector-curvature="0"
+       id="path12729"
+       d="m -3.9956704,255.20758 c 3.44469954,-4.06811 37.6877604,-1.28536 37.6877604,-1.28536 68.39281,0.43688 102.51773,1.45702 182.20654,1.03427 0.67948,12.19544 -50.17526,18.25139 -61.76351,18.14723 -32.71384,-0.33144 -157.5583521,41.36187 -165.214027,24.05491 0,0 -2.851114,-30.21882 7.0832366,-41.95105 z"
+       style="opacity:0.25;vector-effect:none;fill:#a9a9a9;fill-opacity:1;stroke:none;stroke-width:3.44084287;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers stroke fill" />
+    <path
        style="opacity:0.25;vector-effect:none;fill:#90c1a1;fill-opacity:1;stroke:none;stroke-width:3.44084287;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers stroke fill"
-       d="m -3.9956704,255.20758 c 3.44469954,-4.06811 37.6877604,-1.28536 37.6877604,-1.28536 43.998842,-12.99982 98.99637,-7.52388 139.41811,-10.81471 11.2268,-6.4818 45.95676,-35.58681 44.44378,-12.76878 l -1.71404,25.85031 c -0.73159,11.03338 -50.11657,17.01884 -61.70482,16.91468 -32.71384,-0.33144 -157.5583521,41.36187 -165.214027,24.05491 0,0 -2.851114,-30.21882 7.0832366,-41.95105 z"
+       d="m 33.69209,253.92222 c 43.998842,-12.99982 98.99637,-7.52388 139.41811,-10.81471 11.2268,-6.4818 45.97802,-35.58539 44.44378,-12.76878 l -1.65535,24.61776 C 205.24798,255.07303 23.176398,255.33893 9.9447535,255 c 7.0452295,-1.21165 0,0 23.7473365,-1.07778 z"
        id="rect8766"
        inkscape:connector-curvature="0"
-       sodipodi:nodetypes="sccssccs" />
+       sodipodi:nodetypes="ccsccc" />
     <path
        style="fill:#e88471;stroke:url(#linearGradient8277);stroke-width:4;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none;fill-opacity:1"
        d="M 39.848006,263.94959 H 160.56402"
@@ -478,12 +485,12 @@
        style="opacity:0.25;vector-effect:none;fill:none;fill-opacity:1;stroke:none;stroke-width:3.44084287;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers stroke fill" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:5.29166651px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#3f6e4f;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:5.29166651px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#575757;fill-opacity:1;stroke:none;stroke-width:0.26458332;"
        id="text9687"><textPath
          xlink:href="#path10074"
          id="textPath10076"><tspan
    id="tspan9689"
-   style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Light';fill:#3f6e4f;stroke-width:0.26458332"
+   style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Light';fill:#575757;stroke-width:0.26458332;fill-opacity:1;"
    dx="70.666245">Unknown unknowns</tspan></textPath></text>
     <text
        id="text9695"
@@ -496,18 +503,18 @@
    dx="52.119095">Known unknowns</tspan></textPath></text>
     <path
        style="opacity:0.5;fill:#161d30;stroke:#161d30;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#marker10095)"
-       d="m 167.10729,258.81215 0.13445,18.60174"
+       d="m 167.10729,258.81215 0.13445,28.69688"
        id="path10091"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cc" />
     <text
        id="text11191"
-       y="282.72668"
+       y="292.78082"
        x="129.46474"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.29166651px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#3a3429;fill-opacity:1;stroke:none;stroke-width:0.26458332"
        xml:space="preserve"><tspan
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.29166651px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#3a3429;stroke-width:0.26458332"
-         y="282.72668"
+         y="292.78082"
          x="129.46474"
          id="tspan11189"
          sodipodi:role="line">Last known case</tspan></text>
