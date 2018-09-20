@@ -19,6 +19,34 @@
    sodipodi:docname="fig1.svg">
   <defs
      id="defs2075">
+    <marker
+       inkscape:stockid="Arrow1Sstart"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="marker10095"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path10093"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         style="fill-rule:evenodd;stroke:#161d30;stroke-width:1pt;stroke-opacity:1;fill:#161d30;fill-opacity:1"
+         transform="scale(0.2) translate(6,0)" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker9911"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow1Sstart">
+      <path
+         transform="scale(0.2) translate(6,0)"
+         style="fill-rule:evenodd;stroke:#55689c;stroke-width:1pt;stroke-opacity:1;fill:#55689c;fill-opacity:1"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         id="path9909" />
+    </marker>
     <linearGradient
        inkscape:collect="always"
        id="linearGradient8405">
@@ -76,10 +104,11 @@
        refX="0.0"
        refY="0.0"
        orient="auto"
-       inkscape:stockid="Arrow1Sstart">
+       inkscape:stockid="Arrow1Sstart"
+       inkscape:collect="always">
       <path
          transform="scale(0.2) translate(6,0)"
-         style="fill-rule:evenodd;stroke:#3a3429;stroke-width:1pt;stroke-opacity:1;fill:#3a3429;fill-opacity:1"
+         style="fill-rule:evenodd;stroke:#48231c;stroke-width:1pt;stroke-opacity:1;fill:#48231c;fill-opacity:1"
          d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
          id="path5273" />
     </marker>
@@ -245,9 +274,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.1287683"
-     inkscape:cx="372.74552"
-     inkscape:cy="281.65885"
+     inkscape:zoom="3.1875992"
+     inkscape:cx="576.50308"
+     inkscape:cy="117.83766"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -275,13 +304,19 @@
      id="layer1"
      transform="translate(0,-213)">
     <path
+       style="opacity:0.25;vector-effect:none;fill:#90c1a1;fill-opacity:1;stroke:none;stroke-width:3.44084287;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers stroke fill"
+       d="m -3.9956704,255.20758 c 13.5935557,-0.5673 37.6877604,-1.28536 37.6877604,-1.28536 43.998842,-12.99982 98.99637,-7.52388 139.41811,-10.81471 11.2268,-6.4818 36.60126,-27.69906 34.81818,-6.1952 l -1.94881,23.5026 c -0.91374,11.0198 -40.2562,12.79297 -51.84445,12.68881 -32.71384,-0.33144 -157.5583521,41.36187 -165.214027,24.05491 0,0 -8.276636,-41.31004 7.0832366,-41.95105 z"
+       id="rect8766"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="sccssccs" />
+    <path
        style="fill:#e88471;stroke:url(#linearGradient8277);stroke-width:4;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none;fill-opacity:1"
        d="M 39.848006,263.94959 H 160.56402"
        id="path7319"
        inkscape:connector-curvature="0" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:Sawasdee;-inkscape-font-specification:Sawasdee;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#3a3429;fill-opacity:1;stroke:none;stroke-width:0.26458332;"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:Sawasdee;-inkscape-font-specification:'Sawasdee Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#3a3429;fill-opacity:1;stroke:none;stroke-width:0.26458332;"
        x="9.0765896"
        y="224.4194"
        id="text2649"><tspan
@@ -289,15 +324,15 @@
          id="tspan2647"
          x="9.0765896"
          y="224.4194"
-         style="stroke-width:0.26458332;fill:#3a3429;">Early </tspan><tspan
+         style="stroke-width:0.26458332;fill:#3a3429;-inkscape-font-specification:'Sawasdee Bold';font-family:Sawasdee;font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal;">Early </tspan><tspan
          sodipodi:role="line"
          x="9.0765896"
          y="237.64857"
-         style="stroke-width:0.26458332;fill:#3a3429;"
+         style="stroke-width:0.26458332;fill:#3a3429;-inkscape-font-specification:'Sawasdee Bold';font-family:Sawasdee;font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal;"
          id="tspan2651">Phase</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:Sawasdee;-inkscape-font-specification:Sawasdee;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#3a2c29;fill-opacity:1;stroke:none;stroke-width:0.26458332;"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:Sawasdee;-inkscape-font-specification:'Sawasdee Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#3a2c29;fill-opacity:1;stroke:none;stroke-width:0.26458332;"
        x="64.943008"
        y="231.03917"
        id="text2655"><tspan
@@ -305,10 +340,10 @@
          id="tspan2653"
          x="64.943008"
          y="231.03917"
-         style="stroke-width:0.26458332;fill:#3a2c29;">Intervention</tspan></text>
+         style="stroke-width:0.26458332;fill:#3a2c29;-inkscape-font-specification:'Sawasdee Bold';font-family:Sawasdee;font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal;">Intervention</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:Sawasdee;-inkscape-font-specification:Sawasdee;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;text-align:end;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;fill:#161d30;fill-opacity:1;stroke:none;stroke-width:0.26458332;"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:Sawasdee;-inkscape-font-specification:'Sawasdee Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;text-align:end;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;fill:#161d30;fill-opacity:1;stroke:none;stroke-width:0.26458332;"
        x="200.12758"
        y="224.4194"
        id="text2659"><tspan
@@ -316,41 +351,44 @@
          id="tspan2657"
          x="200.12758"
          y="224.4194"
-         style="text-align:end;text-anchor:end;stroke-width:0.26458332;fill:#161d30;">Post</tspan><tspan
+         style="text-align:end;text-anchor:end;stroke-width:0.26458332;fill:#161d30;-inkscape-font-specification:'Sawasdee Bold';font-family:Sawasdee;font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal;">Post</tspan><tspan
          sodipodi:role="line"
          x="200.12758"
          y="237.64857"
-         style="text-align:end;text-anchor:end;stroke-width:0.26458332;fill:#161d30;"
+         style="text-align:end;text-anchor:end;stroke-width:0.26458332;fill:#161d30;-inkscape-font-specification:'Sawasdee Bold';font-family:Sawasdee;font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal;"
          id="tspan2661">Intervention</tspan></text>
     <g
        id="g2731">
-      <path
-         sodipodi:nodetypes="cc"
-         inkscape:connector-curvature="0"
-         id="path2645"
-         d="M 9.9447535,255 H 86.85083"
-         style="fill:#e88471;stroke:url(#linearGradient2684);stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-      <path
-         style="fill:#e8c271;stroke:url(#linearGradient2721);stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         d="M 199.72379,255 H 86.85083"
-         id="path2719"
-         inkscape:connector-curvature="0"
-         sodipodi:nodetypes="cc" />
+      <g
+         id="g9701">
+        <path
+           style="fill:#e88471;stroke:url(#linearGradient2684);stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="M 9.9447535,255 H 86.85083"
+           id="path2645"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="cc" />
+        <path
+           sodipodi:nodetypes="cc"
+           inkscape:connector-curvature="0"
+           id="path2719"
+           d="M 199.72379,255 H 86.85083"
+           style="fill:#55689c;stroke:url(#linearGradient2721);stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#marker9911)" />
+      </g>
     </g>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.29166651px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#3a3429;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       x="1.4064008"
-       y="292.78082"
+       x="4.581399"
+       y="277.96411"
        id="text2735"><tspan
          sodipodi:role="line"
          id="tspan2733"
-         x="1.4064008"
-         y="292.78082"
+         x="4.581399"
+         y="277.96411"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.29166651px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#3a3429;stroke-width:0.26458332">Patient zero</tspan></text>
     <path
-       style="fill:#3a3429;stroke:#3a3429;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#Arrow1Sstart);opacity:0.5"
-       d="m 9.9447534,258.81215 0.1344476,29.51504"
+       style="opacity:0.5;fill:#3a3429;stroke:#3a3429;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#Arrow1Sstart)"
+       d="m 10.162655,258.81215 0.134448,14.72449"
        id="path2737"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cc" />
@@ -359,16 +397,16 @@
        inkscape:connector-curvature="0"
        id="path5271"
        d="m 36.403088,258.81215 0.134448,28.93165"
-       style="fill:#3a3429;stroke:#3a3429;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#marker5275);opacity:0.5" />
+       style="fill:#48231c;stroke:#48231c;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#marker5275);opacity:0.5" />
     <text
        id="text5951"
        y="292.78082"
-       x="35.802231"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.29166651px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#3a3429;fill-opacity:1;stroke:none;stroke-width:0.26458332;"
+       x="4.581399"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.29166651px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#3a3429;fill-opacity:1;stroke:none;stroke-width:0.26458332"
        xml:space="preserve"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.29166651px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#3a3429;stroke-width:0.26458332;"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.29166651px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#3a3429;stroke-width:0.26458332"
          y="292.78082"
-         x="35.802231"
+         x="4.581399"
          sodipodi:role="line"
          id="tspan5953">Intervention begins</tspan></text>
     <path
@@ -429,5 +467,79 @@
          y="270.49219"
          style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:4.23333311px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Light';fill:#966055;stroke-width:0.26458332"
          id="tspan7309" /></text>
+    <path
+       sodipodi:nodetypes="ccssccsc"
+       inkscape:connector-curvature="0"
+       id="path10074"
+       d="m -11.078907,297.15863 c 7.6556749,17.30696 132.500187,-24.38635 165.214027,-24.05491 11.58825,0.10416 50.93071,-1.66901 51.84445,-12.68881 l 1.94881,-23.5026 c 1.78308,-21.50386 -23.59138,-0.2866 -34.81818,6.1952 -40.42174,3.29083 -95.419268,-2.18511 -139.41811,10.81471 0,0 -24.0942047,0.71806 -37.6877604,1.28536 -15.3598726,0.64101 -7.0832366,41.95105 -7.0832366,41.95105 z"
+       style="opacity:0.25;vector-effect:none;fill:none;fill-opacity:1;stroke:none;stroke-width:3.44084287;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers stroke fill" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:5.29166651px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#3f6e4f;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       id="text9687"><textPath
+         xlink:href="#path10074"
+         id="textPath10076"><tspan
+   id="tspan9689"
+   style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Light';fill:#3f6e4f;stroke-width:0.26458332"
+   dx="70.666245">Unknown Unknowns</tspan></textPath></text>
+    <text
+       id="text9695"
+       style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:5.29166651px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#3f6e4f;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       xml:space="preserve"><textPath
+         xlink:href="#rect8766"
+         id="textPath10069"><tspan
+   style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Light';fill:#3f6e4f;stroke-width:0.26458332"
+   id="tspan9693"
+   dx="52.119095">Known unknowns</tspan></textPath></text>
+    <path
+       style="opacity:0.5;fill:#161d30;stroke:#161d30;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#marker10095)"
+       d="m 167.10729,258.81215 0.13445,18.60174"
+       id="path10091"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <text
+       id="text11191"
+       y="282.72668"
+       x="129.46474"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.29166651px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#3a3429;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.29166651px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#3a3429;stroke-width:0.26458332"
+         y="282.72668"
+         x="129.46474"
+         id="tspan11189"
+         sodipodi:role="line">Last known case</tspan></text>
+    <text
+       id="text12001"
+       y="265.20053"
+       x="172.13971"
+       style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:4.23333311px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#3e4965;fill-opacity:1;stroke:none;stroke-width:0.26458332;"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:4.23333311px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Light';fill:#3e4965;stroke-width:0.26458332;"
+         y="265.20053"
+         x="172.13971"
+         sodipodi:role="line"
+         id="tspan12005">capacity building</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:4.23333311px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#3e4965;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="172.13971"
+       y="270.49219"
+       id="text12011"><tspan
+         id="tspan12009"
+         sodipodi:role="line"
+         x="172.13971"
+         y="270.49219"
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:4.23333311px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Light';fill:#3e4965;stroke-width:0.26458332">lessons learned</tspan></text>
+    <text
+       id="text12015"
+       y="275.78384"
+       x="172.13971"
+       style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:4.23333311px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#3e4965;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:4.23333311px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Light';fill:#3e4965;stroke-width:0.26458332"
+         y="275.78384"
+         x="172.13971"
+         sodipodi:role="line"
+         id="tspan12017">policy formation</tspan></text>
   </g>
 </svg>
