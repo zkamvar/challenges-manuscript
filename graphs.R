@@ -28,7 +28,8 @@ i7  <- incidence(e, interval = "week")
 fi7 <- fit(i7[1:25])
 p   <- plot(i7[1:25], color = yellow1, border = yellow2, labels_iso = FALSE, fit = fi7)
 ggsave(p + theme_void(), file = here("charts", "incidence-fit.svg"), width = 2, height = 1)
-
+p2  <- plot(i7, color = yellow1, border = yellow2) + theme_void()
+ggsave(p2, file = here("charts", "incidence-full.svg"), width = 3, height = 1)
 # serial interval distribution ------------------------------------------------
 mu <- 15.3
 sigma <- 9.3
