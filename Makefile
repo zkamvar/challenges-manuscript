@@ -1,6 +1,3 @@
-TARGETS := $(wildcard *.dot)
-PDF     := $(patsubst %.dot,%.pdf,$(TARGETS))
-
 all : fig1.png fig2.png fig1.pdf fig2.pdf
 
 %.pdf : %.dot
@@ -15,5 +12,5 @@ all : fig1.png fig2.png fig1.pdf fig2.pdf
 .PHONY: clean
 
 clean :
-	$(RM) $(PDF)
+	$(RM) $(wildcard *.pdf) $(wildcard *.png)
 
