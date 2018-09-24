@@ -2765,7 +2765,7 @@
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
      inkscape:zoom="0.91334167"
-     inkscape:cx="397.94527"
+     inkscape:cx="396.85039"
      inkscape:cy="472.44094"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
@@ -7792,191 +7792,187 @@
        transform="rotate(-157.5,109.31848,143.33382)"
        style="fill:#8b96b4;stroke:#8b96b4" />
     <g
-       id="g2105"
-       transform="translate(-4.7625002)">
-      <g
-         id="g2066"
-         transform="matrix(0.47588166,0,0,1,17.596253,-3.7041656)"
-         style="opacity:1;stroke:#fefdfa;stroke-opacity:1">
-        <path
-           style="fill:none;fill-rule:evenodd;stroke:#fefdfa;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
-           d="M 6.67119,70.154383 H 17.41892"
-           id="path2058"
-           inkscape:connector-curvature="0"
-           inkscape:path-effect="#path-effect2150"
-           inkscape:original-d="M 6.67119,70.154383 H 17.41892" />
-        <path
-           inkscape:original-d="M 6.67119,76.683603 H 17.41894"
-           inkscape:path-effect="#path-effect2147"
-           inkscape:connector-curvature="0"
-           id="path2060"
-           d="M 6.67119,76.683603 H 17.41894"
-           style="fill:none;fill-rule:evenodd;stroke:#fefdfa;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1" />
-        <path
-           style="fill:none;fill-rule:evenodd;stroke:#fefdfa;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
-           d="M 6.67119,73.418993 H 17.41892"
-           id="path2062"
-           inkscape:connector-curvature="0"
-           inkscape:path-effect="#path-effect2144"
-           inkscape:original-d="M 6.67119,73.418993 H 17.41892" />
-        <path
-           inkscape:original-d="M 6.67119,66.889773 H 17.41892"
-           inkscape:path-effect="#path-effect2154"
-           inkscape:connector-curvature="0"
-           id="path2064"
-           d="M 6.67119,66.889773 H 17.41892"
-           style="fill:none;fill-rule:evenodd;stroke:#fefdfa;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1" />
-      </g>
-      <text
-         id="text3317"
-         y="64.485756"
-         x="27.063074"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;line-height:1.25;font-family:ubuntu;-inkscape-font-specification:'ubuntu, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#3f6e4f;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-         xml:space="preserve"><tspan
-           style="fill:#3f6e4f;stroke-width:0.26458332"
-           y="64.485756"
-           x="27.063074"
-           id="tspan3315"
-           sodipodi:role="line">Background Data</tspan></text>
-      <text
-         xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;line-height:1.25;font-family:ubuntu;-inkscape-font-specification:'ubuntu, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#968155;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-         x="27.063074"
-         y="74.247131"
-         id="text3321"><tspan
-           sodipodi:role="line"
-           id="tspan3319"
-           x="27.063074"
-           y="74.247131"
-           style="fill:#968155;stroke-width:0.26458332">Linelist Data</tspan></text>
-      <text
-         id="text3325"
-         y="70.974052"
-         x="27.063074"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;line-height:1.25;font-family:ubuntu;-inkscape-font-specification:'ubuntu, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#3e4965;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-         xml:space="preserve"><tspan
-           style="fill:#3e4965;stroke-width:0.26458332"
-           y="70.974052"
-           x="27.063074"
-           id="tspan3323"
-           sodipodi:role="line">Contacts Data</tspan></text>
-      <text
-         xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;line-height:1.25;font-family:ubuntu;-inkscape-font-specification:'ubuntu, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#966055;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-         x="27.063074"
-         y="67.712265"
-         id="text3329"><tspan
-           sodipodi:role="line"
-           id="tspan3327"
-           x="27.063074"
-           y="67.712265"
-           style="fill:#966055;stroke-width:0.26458332">Genomic Data</tspan></text>
-      <g
-         style="opacity:0.25"
-         transform="matrix(0.47588166,0,0,1,17.596253,-3.7041656)"
-         id="g2170">
-        <path
-           inkscape:original-d="M 6.67119,70.154383 H 17.41892"
-           inkscape:path-effect="#path-effect2150"
-           inkscape:connector-curvature="0"
-           id="path2059"
-           d="M 6.67119,70.154383 H 17.41892"
-           style="fill:none;fill-rule:evenodd;stroke:#e88471;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1" />
-        <path
-           style="fill:none;fill-rule:evenodd;stroke:#e8c271;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
-           d="M 6.67119,76.683603 H 17.41894"
-           id="path2061"
-           inkscape:connector-curvature="0"
-           inkscape:path-effect="#path-effect2147"
-           inkscape:original-d="M 6.67119,76.683603 H 17.41894" />
-        <path
-           inkscape:original-d="M 6.67119,73.418993 H 17.41892"
-           inkscape:path-effect="#path-effect2144"
-           inkscape:connector-curvature="0"
-           id="path2063"
-           d="M 6.67119,73.418993 H 17.41892"
-           style="fill:none;fill-rule:evenodd;stroke:#55689c;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1" />
-        <path
-           style="fill:none;fill-rule:evenodd;stroke:#53a971;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:0.56862745"
-           d="M 6.67119,66.889773 H 17.41892"
-           id="path2152"
-           inkscape:connector-curvature="0"
-           inkscape:path-effect="#path-effect2154"
-           inkscape:original-d="M 6.67119,66.889773 H 17.41892" />
-      </g>
-      <g
-         id="g2028"
-         transform="matrix(0.48541109,0,0,1,11.899587,-3.7041656)">
-        <path
-           style="fill:none;fill-rule:evenodd;stroke:#e88471;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
-           d="M 6.67119,70.154383 H 17.41892"
-           id="path2020"
-           inkscape:connector-curvature="0"
-           inkscape:path-effect="#path-effect2150"
-           inkscape:original-d="M 6.67119,70.154383 H 17.41892" />
-        <path
-           inkscape:original-d="M 6.67119,76.683603 H 17.41894"
-           inkscape:path-effect="#path-effect2147"
-           inkscape:connector-curvature="0"
-           id="path2022"
-           d="M 6.67119,76.683603 H 17.41894"
-           style="fill:none;fill-rule:evenodd;stroke:#e8c271;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1" />
-        <path
-           style="fill:none;fill-rule:evenodd;stroke:#55689c;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
-           d="M 6.67119,73.418993 H 17.41892"
-           id="path2024"
-           inkscape:connector-curvature="0"
-           inkscape:path-effect="#path-effect2144"
-           inkscape:original-d="M 6.67119,73.418993 H 17.41892" />
-        <path
-           inkscape:original-d="M 6.67119,66.889773 H 17.41892"
-           inkscape:path-effect="#path-effect2154"
-           inkscape:connector-curvature="0"
-           id="path2026"
-           d="M 6.67119,66.889773 H 17.41892"
-           style="fill:none;fill-rule:evenodd;stroke:#53a971;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:0.56862745" />
-      </g>
-      <text
-         transform="rotate(45)"
-         id="text2032"
-         y="42.281376"
-         x="65.704025"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;line-height:1.25;font-family:ubuntu;-inkscape-font-specification:'ubuntu, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#8a8a8a;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-         xml:space="preserve"><tspan
-           style="fill:#8a8a8a;fill-opacity:1;stroke-width:0.26458332"
-           y="42.281376"
-           x="65.704025"
-           id="tspan2030"
-           sodipodi:role="line">Required</tspan></text>
-      <text
-         transform="rotate(45)"
-         xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;line-height:1.25;font-family:ubuntu;-inkscape-font-specification:'ubuntu, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#8a8a8a;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-         x="69.544533"
-         y="38.545288"
-         id="text2036"><tspan
-           sodipodi:role="line"
-           id="tspan2034"
-           x="69.544533"
-           y="38.545288"
-           style="fill:#8a8a8a;fill-opacity:1;stroke-width:0.26458332">Optional</tspan></text>
-      <text
-         xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5.29166651px;line-height:1.25;font-family:sawasdee;-inkscape-font-specification:'sawasdee Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#8a8a8a;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-         x="14.76837"
-         y="59.603767"
-         id="text2074"><tspan
-           sodipodi:role="line"
-           id="tspan2072"
-           x="14.76837"
-           y="59.603767"
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5.29166651px;font-family:sawasdee;-inkscape-font-specification:'sawasdee Bold';fill:#8a8a8a;fill-opacity:1;stroke-width:0.26458332">Data sources</tspan></text>
+       style="opacity:1;stroke:#fefdfa;stroke-opacity:1"
+       transform="matrix(0.47588166,0,0,1,12.833753,-3.7041656)"
+       id="g2066">
+      <path
+         inkscape:original-d="M 6.67119,70.154383 H 17.41892"
+         inkscape:path-effect="#path-effect2150"
+         inkscape:connector-curvature="0"
+         id="path2058"
+         d="M 6.67119,70.154383 H 17.41892"
+         style="fill:none;fill-rule:evenodd;stroke:#fefdfa;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         style="fill:none;fill-rule:evenodd;stroke:#fefdfa;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+         d="M 6.67119,76.683603 H 17.41894"
+         id="path2060"
+         inkscape:connector-curvature="0"
+         inkscape:path-effect="#path-effect2147"
+         inkscape:original-d="M 6.67119,76.683603 H 17.41894" />
+      <path
+         inkscape:original-d="M 6.67119,73.418993 H 17.41892"
+         inkscape:path-effect="#path-effect2144"
+         inkscape:connector-curvature="0"
+         id="path2062"
+         d="M 6.67119,73.418993 H 17.41892"
+         style="fill:none;fill-rule:evenodd;stroke:#fefdfa;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         style="fill:none;fill-rule:evenodd;stroke:#fefdfa;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+         d="M 6.67119,66.889773 H 17.41892"
+         id="path2064"
+         inkscape:connector-curvature="0"
+         inkscape:path-effect="#path-effect2154"
+         inkscape:original-d="M 6.67119,66.889773 H 17.41892" />
     </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;line-height:1.25;font-family:ubuntu;-inkscape-font-specification:'ubuntu, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#3f6e4f;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="22.300573"
+       y="74.437508"
+       id="text3317"><tspan
+         sodipodi:role="line"
+         id="tspan3315"
+         x="22.300573"
+         y="74.437508"
+         style="fill:#3f6e4f;stroke-width:0.26458332">Background Data</tspan></text>
+    <text
+       id="text3321"
+       y="71.072128"
+       x="22.300573"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;line-height:1.25;font-family:ubuntu;-inkscape-font-specification:'ubuntu, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#968155;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       xml:space="preserve"><tspan
+         style="fill:#968155;stroke-width:0.26458332"
+         y="71.072128"
+         x="22.300573"
+         id="tspan3319"
+         sodipodi:role="line">Linelist Data</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;line-height:1.25;font-family:ubuntu;-inkscape-font-specification:'ubuntu, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#3e4965;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="22.300573"
+       y="67.799049"
+       id="text3325"><tspan
+         sodipodi:role="line"
+         id="tspan3323"
+         x="22.300573"
+         y="67.799049"
+         style="fill:#3e4965;stroke-width:0.26458332">Contacts Data</tspan></text>
+    <text
+       id="text3329"
+       y="64.537262"
+       x="22.300573"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;line-height:1.25;font-family:ubuntu;-inkscape-font-specification:'ubuntu, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#966055;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       xml:space="preserve"><tspan
+         style="fill:#966055;stroke-width:0.26458332"
+         y="64.537262"
+         x="22.300573"
+         id="tspan3327"
+         sodipodi:role="line">Genomic Data</tspan></text>
+    <g
+       transform="matrix(0.48541109,0,0,1,7.1370868,-3.7041656)"
+       id="g2028">
+      <path
+         inkscape:original-d="M 6.67119,70.154383 H 17.41892"
+         inkscape:path-effect="#path-effect2150"
+         inkscape:connector-curvature="0"
+         id="path2020"
+         d="M 6.67119,70.154383 H 17.41892"
+         style="fill:none;fill-rule:evenodd;stroke:#55689c;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         style="fill:none;fill-rule:evenodd;stroke:#51aa70;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:0.5529412"
+         d="M 6.67119,76.683603 H 17.41894"
+         id="path2022"
+         inkscape:connector-curvature="0"
+         inkscape:path-effect="#path-effect2147"
+         inkscape:original-d="M 6.67119,76.683603 H 17.41894" />
+      <path
+         inkscape:original-d="M 6.67119,73.418993 H 17.41892"
+         inkscape:path-effect="#path-effect2144"
+         inkscape:connector-curvature="0"
+         id="path2024"
+         d="M 6.67119,73.418993 H 17.41892"
+         style="fill:none;fill-rule:evenodd;stroke:#e8c271;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         style="fill:none;fill-rule:evenodd;stroke:#e88471;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+         d="M 6.67119,66.889773 H 17.41892"
+         id="path2026"
+         inkscape:connector-curvature="0"
+         inkscape:path-effect="#path-effect2154"
+         inkscape:original-d="M 6.67119,66.889773 H 17.41892" />
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;line-height:1.25;font-family:ubuntu;-inkscape-font-specification:'ubuntu, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#8a8a8a;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="62.33643"
+       y="45.648972"
+       id="text2032"
+       transform="rotate(45)"><tspan
+         sodipodi:role="line"
+         id="tspan2030"
+         x="62.33643"
+         y="45.648972"
+         style="fill:#8a8a8a;fill-opacity:1;stroke-width:0.26458332">Required</tspan></text>
+    <text
+       id="text2036"
+       y="41.912884"
+       x="66.176933"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;line-height:1.25;font-family:ubuntu;-inkscape-font-specification:'ubuntu, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#8a8a8a;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       xml:space="preserve"
+       transform="rotate(45)"><tspan
+         style="fill:#8a8a8a;fill-opacity:1;stroke-width:0.26458332"
+         y="41.912884"
+         x="66.176933"
+         id="tspan2034"
+         sodipodi:role="line">Optional</tspan></text>
+    <text
+       id="text2074"
+       y="59.603767"
+       x="10.00587"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5.29166651px;line-height:1.25;font-family:sawasdee;-inkscape-font-specification:'sawasdee Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#8a8a8a;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5.29166651px;font-family:sawasdee;-inkscape-font-specification:'sawasdee Bold';fill:#8a8a8a;fill-opacity:1;stroke-width:0.26458332"
+         y="59.603767"
+         x="10.00587"
+         id="tspan2072"
+         sodipodi:role="line">Data sources</tspan></text>
     <path
        style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:url(#linearGradient2003);stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#marker2001)"
        d="m 161.86687,246.14345 c -19.8555,-0.20258 -34.21297,21.2283 -59.4059,29.15038 -25.192931,7.92209 -53.689453,5.81162 -68.798721,6.90409"
        id="path1997"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="csc" />
+    <g
+       id="g2052"
+       transform="matrix(0.48541109,0,0,1,12.77018,-3.7041656)"
+       style="opacity:0.25">
+      <path
+         style="fill:none;fill-rule:evenodd;stroke:#55689c;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+         d="M 6.67119,70.154383 H 17.41892"
+         id="path2043"
+         inkscape:connector-curvature="0"
+         inkscape:path-effect="#path-effect2150"
+         inkscape:original-d="M 6.67119,70.154383 H 17.41892" />
+      <path
+         inkscape:original-d="M 6.67119,76.683603 H 17.41894"
+         inkscape:path-effect="#path-effect2147"
+         inkscape:connector-curvature="0"
+         id="path2046"
+         d="M 6.67119,76.683603 H 17.41894"
+         style="fill:none;fill-rule:evenodd;stroke:#51aa70;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:0.55294118" />
+      <path
+         style="fill:none;fill-rule:evenodd;stroke:#e8c271;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+         d="M 6.67119,73.418993 H 17.41892"
+         id="path2048"
+         inkscape:connector-curvature="0"
+         inkscape:path-effect="#path-effect2144"
+         inkscape:original-d="M 6.67119,73.418993 H 17.41892" />
+      <path
+         inkscape:original-d="M 6.67119,66.889773 H 17.41892"
+         inkscape:path-effect="#path-effect2154"
+         inkscape:connector-curvature="0"
+         id="path2050"
+         d="M 6.67119,66.889773 H 17.41892"
+         style="fill:none;fill-rule:evenodd;stroke:#e88471;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1" />
+    </g>
   </g>
 </svg>
