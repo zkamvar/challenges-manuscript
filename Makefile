@@ -1,7 +1,7 @@
 TARGETS := $(wildcard *.dot)
 PDF     := $(patsubst %.dot,%.pdf,$(TARGETS))
 
-all : $(PDF)
+all : fig1.png fig2.png fig1.pdf fig2.pdf
 
 %.pdf : %.dot
 	dot -Tpdf -o $@ $<
