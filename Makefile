@@ -7,7 +7,7 @@ all : fig1.png fig2.png fig1.pdf fig2.pdf
 	dot -Tpdf -o $@ $<
 
 %.pdf : %.svg
-	inkscape --file=$< --export-area-page --without-gui --export-pdf=$@
+	inkscape --file=$< --export-text-to-path --export-area-page --without-gui --export-pdf=$@
 
 %.png : %.svg
 	inkscape --file=$< --export-area-page --without-gui --export-dpi=$(RES) --export-png=$@
