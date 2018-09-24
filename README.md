@@ -20,6 +20,34 @@ one that says `challenges #Color palette by Paletton.com #72W0S0kdPiS8cz9gnt9957
 The font family we are using is [Sawasdee]()https://fontinfo.opensuse.org/families/Sawasdee.html), 
 which happens to be the font for the RECON logo. 
 
+# Compiling to PNG and PDF
+
+This repo will generate a PNG and PDF file if you have the following components
+installed and in your path:
+
+1. GNU Make
+2. inkscape (version 0.92 or higher)
+3. Both Sawasdee and Ubunutu fonts
+
+If you have all these components, run the following to compile all files, using
+four cores:
+
+```sh
+make -j 4
+```
+
+To compile in a higher resolution, use the `RES` argument:
+
+```sh
+make -j 4 RES=900
+```
+
+to clean up, run:
+
+```sh
+make clean
+```
+
 # Components to work on
 
 We have decided on a model where we are creating a directed graph with inputs
