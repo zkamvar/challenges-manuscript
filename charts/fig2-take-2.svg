@@ -27,6 +27,20 @@
        orient="auto"
        refY="0.0"
        refX="0.0"
+       id="marker2001"
+       style="overflow:visible;"
+       inkscape:isstock="true">
+      <path
+         id="path1999"
+         style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round;stroke:#cccccc;stroke-opacity:1;fill:#cccccc;fill-opacity:1"
+         d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.9730900,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z "
+         transform="scale(0.3) rotate(180) translate(-2.3,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Send"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
        id="marker2104"
        style="overflow:visible;"
        inkscape:isstock="true">
@@ -99,7 +113,8 @@
        refX="0.0"
        refY="0.0"
        orient="auto"
-       inkscape:stockid="Arrow2Send">
+       inkscape:stockid="Arrow2Send"
+       inkscape:collect="always">
       <path
          transform="scale(0.3) rotate(180) translate(-2.3,0)"
          d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.9730900,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z "
@@ -2686,10 +2701,10 @@
        inkscape:collect="always"
        xlink:href="#linearGradient2608"
        id="linearGradient2630"
-       x1="24.44685"
-       y1="286.66766"
-       x2="95.38726"
-       y2="280.30136"
+       x1="13.149051"
+       y1="289.27484"
+       x2="106.39537"
+       y2="281.17041"
        gradientUnits="userSpaceOnUse" />
     <linearGradient
        inkscape:collect="always"
@@ -2731,6 +2746,16 @@
        y1="257.01663"
        x2="-11.248294"
        y2="287.92029" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient2608"
+       id="linearGradient2003"
+       gradientUnits="userSpaceOnUse"
+       x1="24.73654"
+       y1="289.85425"
+       x2="142.60626"
+       y2="249.01515"
+       gradientTransform="rotate(-180,92.54111,268.44415)" />
   </defs>
   <sodipodi:namedview
      id="base"
@@ -2739,9 +2764,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="2.5833203"
-     inkscape:cx="394.89781"
-     inkscape:cy="604.3979"
+     inkscape:zoom="0.91334167"
+     inkscape:cx="397.94527"
+     inkscape:cy="472.44094"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -3104,7 +3129,7 @@
        sodipodi:nodetypes="cc"
        inkscape:connector-curvature="0"
        id="path2598"
-       d="M 24.663793,286.39954 C 115.9391,287.0944 102.66146,282.0781 156.63434,251.21413"
+       d="M 25.243167,288.71704 C 116.51847,289.4119 103.24083,284.3956 157.21371,253.53163"
        style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:url(#linearGradient2630);stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:6, 6;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#marker2602)" />
     <path
        style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:url(#linearGradient2610);stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker2590)"
@@ -7947,5 +7972,11 @@
            y="59.603767"
            style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5.29166651px;font-family:sawasdee;-inkscape-font-specification:'sawasdee Bold';fill:#8a8a8a;fill-opacity:1;stroke-width:0.26458332">Data sources</tspan></text>
     </g>
+    <path
+       style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:url(#linearGradient2003);stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#marker2001)"
+       d="m 161.86687,246.14345 c -19.8555,-0.20258 -34.21297,21.2283 -59.4059,29.15038 -25.192931,7.92209 -53.689453,5.81162 -68.798721,6.90409"
+       id="path1997"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="csc" />
   </g>
 </svg>
